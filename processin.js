@@ -193,7 +193,7 @@ function showSuccessAndRedirect() {
     popup.classList.add('active');
     setTimeout(() => {
         popup.classList.remove('active');
-        window.location.href = 'https://harmonious-zuccutto-2bbca8.netlify.app';
+        window.location.href = 'https://trinumina.netlify.app/';
     }, 1800);
 }
 
